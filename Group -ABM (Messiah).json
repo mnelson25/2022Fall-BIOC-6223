@@ -1,0 +1,5 @@
+{ "Data Set" : [ { "Month" : "April" }, 
+{ "Year": "2015"} , 
+{ "Day" : "1" , "Measurement" : "149.52" } ,
+                { "Day": "2" , "Measurement" : "149.38"},
+                { "Day": "3", "Measurement" : "149.60"}, ] } 
